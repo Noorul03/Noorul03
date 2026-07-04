@@ -23,18 +23,23 @@ I enjoy transforming business problems into data-driven solutions using SQL, Exc
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,python,git,github,vscode"/>
 
 </p>
 
-| Analytics | Databases | BI Tools |
-|------------|------------|------------|
-| Microsoft Excel | MySQL | Power BI |
-| SQL | Git | GitHub |
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 
 ---
 
@@ -42,24 +47,18 @@ I enjoy transforming business problems into data-driven solutions using SQL, Exc
 
 ### 📊 Sports Player Matching Platform
 
-End-to-End Business Analyst Portfolio Project
+**End-to-End Business Analyst Portfolio Project**
 
-✅ BRD
+**Highlights**
+- 📄 BRD & FRD Documentation
+- 👥 User Stories
+- 🗄️ MySQL Database Design
+- 💻 SQL Business Analysis
+- 📈 KPI Calculations
+- 📊 Interactive Excel Dashboard
+- 🎤 Executive Presentation
 
-✅ FRD
-
-✅ User Stories
-
-✅ SQL Database
-
-✅ KPI Analysis
-
-✅ Excel Dashboard
-
-✅ Executive Presentation
-
-🔗 Repository
-
+🔗 Repository:
 https://github.com/Noorul03/sports-player-matching-platform
 
 ---
@@ -76,11 +75,21 @@ https://github.com/Noorul03/sports-player-matching-platform
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<p align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noorularsath003@gmail.com)
+<a href="https://www.linkedin.com/in/n2603">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noorul03)
+<a href="mailto:noorularsath003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Noorul03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 📊 GitHub Stats
